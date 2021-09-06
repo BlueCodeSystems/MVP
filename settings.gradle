@@ -1,0 +1,4 @@
+rootProject.name = "mvpapp"
+include ':android-json-form-wizard', ':app'
+//include ':android-json-form-wizard'
+//project(":android-json-form-wizard").projectDir = new File("android-json-form-wizard")

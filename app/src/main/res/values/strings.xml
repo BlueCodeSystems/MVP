@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">mvpapp</string>
+    <string name="launch_form">Launch Form</string>
+    <string name="empty">You have not saved any Data yet</string>
+</resources>
